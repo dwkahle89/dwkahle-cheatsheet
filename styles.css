@@ -1,0 +1,46 @@
+* {
+    font-family: Roboto;
+    text-align: center;
+}
+
+.banner {
+    background-color: #5CAEE3;
+    color: #FFFFFF;
+    width: 650px;
+    margin: 0 auto;
+    border: 1px solid #000000;
+    text-transform: uppercase;
+}
+
+.table {
+    border: 1px solid #000000;
+    margin: 0px auto;
+    width: 650px;
+}
+
+td {
+    text-align: left;
+    border-top: 1px solid #EEEEEE;
+}
+
+th,
+h2 {
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #eeeeee;
+}
+
+h2 {
+    width: 650px;
+    margin: 0 auto;
+    border: 1px solid #000000;
+}
+
+tr {
+    border-bottom: 1px solid #000000;
+}
+
+.tag {
+    font-family: "Courier Prime";
+    background-color: #FFFFBA;
+}
